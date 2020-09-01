@@ -1,0 +1,45 @@
+#task 1:
+
+Zak and Efron are best friends. 
+Zak is a financial analyst working for a private company and Efron is unemployed. 
+They both live in a country where buying devices from the dark web is deemed as a crime. 
+
+Zak found Efron’s dead body in Zak’s apartment on 18th August 2020. 
+ 
+Officials seized a USB drive of Efron. 
+
+The investigators found a suicide note and an excel spreadsheet. 
+Efron had a recent breakup with his girlfriend.
+
+The spreadsheet has a record of $6 million of life insurance but only $5000 of savings in the bank account. 
+Moreover, a zipped file was found indicating some documents related to “how to be a millionaire in the quickest ways” that elaborates some tips of financial scams. 
+
+Objective: Your job is to analyze the background of the story and demonstrate the evidence collected to link up with the investigation.  
+
+Once done, answer the question below. 
+Question 1: State the artifacts/evidence that can be implemented in the case investigation.
+
+Question 2: Explain your motive below in less than 250 words with valid reasons.
+
+#task 2: 
+
+One of your investigators found the log history of the web browser of Zak retrieved from his laptop. The logs include: 
+Time	          Computer	User	              Caption	                                                    URL
+15th August 2020	Zak	    Zak	    Fabrication of Financing Black money overseas  	                www.fabrication101.com
+15th August 2020	Zak	    Mary	  Tips on misleading a crime scene	                              www.dontgetcaught.com
+16th August 2020	Zak	    Mary	  Find Cheap Flights  	                                          www.cheaperflights.com
+17th August 2020	Zak	    Zak	    Honesty is the true virtue: A case study of Financial Crime	    www.claimatruth.com
+  
+Officials were investigating the user ‘Mary’ and it seems that Zak had no idea who was ‘Mary’. He also claimed that he was frequently downloading illegal movies from the internet that ‘might’ infected his computer. Zak also mentioned that he connects his phone to his laptop while browsing the dark web for illegal movies. 
+Considering your answers from Task 1, please answer the following questions:
+
+Question 1: State the artifacts/evidence that can be implemented in the case investigation.  
+
+Question 2: Explain your motive below in less than 250 words with valid reasons.
+
+#task3:
+
+Finally, a malware intrusion analyst discovered that the mobile device was being used as a server by cybercriminals to access to illegal contents through Zak’s devices such a mobile device and laptop. 
+Zak stated that he bought his phone from an anonymous buyer on the dark web. He connected his phone via WiFi in 3 main places of interest: shopping mall, workplace, and home.    
+Zak is accused of murdering his friend by the court even though he claimed he did not commit the crime. 
+Question: Your task is to write a short note that Zak is not guilty of the murder to the court but state if he did commit any other crime (refer to Task 1). 
